@@ -29,7 +29,7 @@ If anything is unclear, don’t hesitate to reach out to your recruiter ahead of
 
 You'll meet one or more developers from the team you’ve applied to. The meeting takes place at our office in Stockholm and begins with a brief introduction of everyone attending.
 
-#### 💻 Coding Challenge (approx. 10 min)
+#### 💻 Coding Challenge (approx. 15 min)
 
 Part of the interview involves a live coding session. It’s not about writing perfect code – we're more interested in understanding how you:
 
@@ -51,7 +51,7 @@ After the coding session, we’ll review your solution together. We'll talk abou
 - How you approached structure and design
 - Your reflections on the codebase you reviewed before the interview
 
-#### ❓ Questions for Us (approx. 15 min)
+#### ❓ Questions for Us (approx. 10 min)
 
 Lastly, you’ll have time to ask us any questions you might have. We want you to get the best possible understanding of Qliro, our team, and the role you’ve applied for.
 
