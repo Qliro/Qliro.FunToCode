@@ -2,7 +2,7 @@
 
 We're thrilled that you're interested in working with us at Qliro! We truly appreciate you taking the time to meet with us.
 
-This test is part of our recruitment process and will be conducted on-site at our office. It gives you the opportunity to showcase your programming and problem-solving skills. At the same time, you’ll gain insight into how we work and what you can expect from us as an employer.
+This test is part of our recruitment process and will be conducted on-site at our office or via teams remote. It gives you the opportunity to showcase your programming and problem-solving skills. At the same time, you’ll gain insight into how we work and what you can expect from us as an employer.
 
 We hope you find the test both enjoyable and rewarding. We look forward to meeting you and discussing your ideas, thoughts, and how you reason about the current codebase.
 
@@ -13,7 +13,7 @@ We hope you find the test both enjoyable and rewarding. We look forward to meeti
 ### 📌 Preparations
 
 - Read through this document carefully and make sure you understand what is expected of you before the interview.
-- Clone the project and ensure you can run it locally, see [Getting Started](docs/GETTING_STARTED.md) for instructions. If you're unable to bring your own laptop, it's perfectly fine to use one of our computers on-site – just let your recruiter know in advance so we can arrange it.
+- Clone the project and ensure you can run it locally, see [Getting Started](docs/GETTING_STARTED.md) for instructions. If you're unable to use your own laptop, it's perfectly fine to use one of our computers on-site – just let your recruiter know in advance so we can arrange it.
 - Review the codebase and write down:
   - What you think works well in the current implementation.
   - What you would have done differently and why.
